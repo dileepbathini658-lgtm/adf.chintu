@@ -1,0 +1,15 @@
+{
+	"name": "dileep-dil1",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6d70e55e-e9d1-4794-99b7-249dc10d2fdd",
+		"tenantId": "72cc5516-8122-401f-85fa-dd3ed87ff944"
+	}
+}
